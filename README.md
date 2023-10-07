@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm [Yifan Yu] 👋
 
-<!--
-**yifanfish233/yifanfish233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a software developer, passionate about what I do, and always learning something new.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+C++, Python, Java, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Projects
+
+## 🌱 What I’m currently learning 
+Everything 🤣
+
+## 📫 How to reach me: 
+[Email](mailto:yifan.yu.developer@gmail.com)
+
+## 📊 My GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yifanfish233&show_icons=true&theme=radical)
+
