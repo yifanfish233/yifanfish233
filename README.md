@@ -1,4 +1,4 @@
-# Hello, I'm [Yifan Yu] 👋
+# Hello, I'm Yifan Yu 👋
 
 ## 🚀 About Me
 I'm a software developer, passionate about what I do, and always learning something new.
